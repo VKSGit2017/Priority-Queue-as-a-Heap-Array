@@ -1,10 +1,8 @@
 // ===========================================
 // Created: November 1, 2016
-// Sheila Doherty
 // Homework Assignment #7: Priority Queue/Heap Array
 // Included File: PriorityQueue.cpp
 // Provided Files: PatientQueue.hpp, Driver.cpp
-// Instructor: Elizabeth Boese
 // Description: Builds a Heap/Priority Queue
 // ===========================================
 
